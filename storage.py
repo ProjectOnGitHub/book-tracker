@@ -37,7 +37,7 @@ def add_book(books: List[Book], author: str, title: str, rating: int,
              date_read: Optional[str] = None) -> tuple[bool, str]:
     for book in books:
         if book.author.lower() == author.lower() and book.title.lower() == title.lower():
-            return False, f"Книга '{title}' автора {author} уже существует!"
+            return False, f"Книга '{title}' автора {author} уже существует! Добавьте другую книгу."
 
     try:
         if not date_read:
