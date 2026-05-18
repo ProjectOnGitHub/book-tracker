@@ -12,3 +12,11 @@
 ## Как запустить
 ```bash
 python main.py
+```
+
+## Пример работы: (краткая демонстрация меню)
+
+<img width="874" height="686" alt="image" src="https://github.com/user-attachments/assets/5059dbaf-b682-479e-a933-69f8ae2f4d5a" />
+
+<img width="1026" height="450" alt="image" src="https://github.com/user-attachments/assets/f059b602-dbd9-4799-ba74-05aaa1c48adb" />
+
